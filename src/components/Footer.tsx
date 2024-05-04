@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="py-10 w-full flex flex-col justify-center items-center md:flex-row">
-          <span className="font-['Poppins] text-[11px] text-gray-400 font-extralight md:pr-1">
+          <span className="font-['Poppins'] text-[11px] text-gray-400 font-extralight md:pr-1">
             © 2024{" "}
             <a
               href="https://www.figma.com/community/file/1291318968121247202"
@@ -71,7 +71,7 @@ const Footer = () => {
             </a>{" "}
             Todos los derechos reservados.
           </span>
-          <span className="font-['Poppins] text-[11px] text-gray-400 font-extralight">
+          <span className="font-['Poppins'] text-[11px] text-gray-400 font-extralight">
             Desarrollado por{" "}
             <a
               href="https://www.linkedin.com/in/daniel-montilla/"
